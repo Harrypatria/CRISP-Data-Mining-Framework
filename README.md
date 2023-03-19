@@ -1,6 +1,6 @@
 ## CRISP-Data-Mining-Framework
 
-![Alt Text]((https://www.slideteam.net/media/catalog/product/cache/1280x720/d/a/data_scientist_life_cycle_of_data_science_ppt_diagrams_slide01.jpg)
+![Alt Text](https://www.slideteam.net/media/catalog/product/cache/1280x720/d/a/data_scientist_life_cycle_of_data_science_ppt_diagrams_slide01.jpg)
 
 ![Alt Text](https://www.datascience-pm.com/wp-content/uploads/2020/05/crisp-tasks.png)
 
