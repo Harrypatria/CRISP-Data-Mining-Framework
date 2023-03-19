@@ -1,5 +1,7 @@
 ## CRISP-Data-Mining-Framework
 
+![Alt Text](https://www.datascience-pm.com/wp-content/uploads/2020/05/crisp-tasks.png)
+
 ### Key Actions to Consider to improve CRISP-DM Data Science Projects
  
 With this in mind, when using CRISP-DM for data science projects, teams should consider the following items to help ensure a successful project:
