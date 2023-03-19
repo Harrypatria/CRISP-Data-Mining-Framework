@@ -31,5 +31,9 @@ How/where does the team talk about potential bias (in the data or the machine le
 How should missing data been handled
 How to determine the appropriate level of accuracy for the business problem (sometimes, data scientists love to improve a model by 0.5% – without knowing the business value of that improvement)
 How does the team know the results are valid (i.e., there was no error during the analysis)
-If the model will be deployed in a production environment, how often will it need to be updated 
+If the model will be deployed in a production environment, how often will it need to be updated.
+
+### References
+CRISP-DM: Towards a Standard Process Model for Data Mining
+http://www.cs.unibo.it/~danilo.montesi/CBD/Beatriz/10.1.1.198.5133.pdf
  
