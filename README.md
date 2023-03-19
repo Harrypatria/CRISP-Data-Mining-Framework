@@ -34,6 +34,9 @@ How does the team know the results are valid (i.e., there was no error during th
 If the model will be deployed in a production environment, how often will it need to be updated.
 
 ### References
-CRISP-DM: Towards a Standard Process Model for Data Mining
+- CRISP-DM: Towards a Standard Process Model for Data Mining
 http://www.cs.unibo.it/~danilo.montesi/CBD/Beatriz/10.1.1.198.5133.pdf
+
+- A Comparative Study of Data Mining Process Models (KDD, CRISP-DM and SEMMA) 
+https://d1wqtxts1xzle7.cloudfront.net/88729354/IJISR-14-281-04-libre.pdf?1658155393=&response-content-disposition=inline%3B+filename%3DA_Comparative_Study_of_Data_Mining_Proce.pdf&Expires=1679232611&Signature=fz6YfKCvFPgvlvhJoet0lURWta-1tXYeLwjhgZVxtLrDn5j9833oazTaQBDDEcC16XwtmzCSUzSPV8a3QOvPaAsrR-Jo5yYa8X5PKfPJexT9ntdMvH7-a1T1y6pCFzEPDxZi46DoOJtf-CMfL9-u~UEepe7hmAfsTcwWylYD8J3h95R9F~QLvDHQ2LtZUKiS86FMGG1FBpPJ1TEpE8-D1kUydLHlaZJLGcHMoTcXu~AM1G71iSIAOblFYM~BIZxuhp4d82o8pc4faZgMZGLdZq1tdZOtKQEzsiZaclVMUqYO8QvL71IiIOCMEnhS0FGurDZ7UQO6S6SvieT~ny5T2Q__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
  
